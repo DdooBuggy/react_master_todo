@@ -64,5 +64,5 @@
     "@types/react-query": "^1.2.9",
     "@types/react-router-dom": "^5.3.3"
   },
-  "homepage": "https://DdooBuggy.github.io/react_master_todo.git"
+  "homepage": "https://DdooBuggy.github.io/react_master_todo"
 }
