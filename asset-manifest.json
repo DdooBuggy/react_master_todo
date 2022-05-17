@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react_master_todo.git/static/js/main.2f161917.js",
+    "main.js": "/react_master_todo.git/static/js/main.545a31e0.js",
     "index.html": "/react_master_todo.git/index.html",
-    "main.2f161917.js.map": "/react_master_todo.git/static/js/main.2f161917.js.map"
+    "main.545a31e0.js.map": "/react_master_todo.git/static/js/main.545a31e0.js.map"
   },
   "entrypoints": [
-    "static/js/main.2f161917.js"
+    "static/js/main.545a31e0.js"
   ]
 }
